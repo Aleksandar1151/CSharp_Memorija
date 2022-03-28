@@ -1,0 +1,10 @@
+C:\Users\Aleksandar\source\repos\MemorijaApp\MemorijaApp\bin\Debug\MemorijaApp.exe.config
+C:\Users\Aleksandar\source\repos\MemorijaApp\MemorijaApp\bin\Debug\MemorijaApp.exe
+C:\Users\Aleksandar\source\repos\MemorijaApp\MemorijaApp\bin\Debug\MemorijaApp.pdb
+C:\Users\Aleksandar\source\repos\MemorijaApp\MemorijaApp\obj\Debug\MemorijaApp.Form1.resources
+C:\Users\Aleksandar\source\repos\MemorijaApp\MemorijaApp\obj\Debug\MemorijaApp.Properties.Resources.resources
+C:\Users\Aleksandar\source\repos\MemorijaApp\MemorijaApp\obj\Debug\MemorijaApp.csproj.GenerateResource.cache
+C:\Users\Aleksandar\source\repos\MemorijaApp\MemorijaApp\obj\Debug\MemorijaApp.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\source\repos\MemorijaApp\MemorijaApp\obj\Debug\MemorijaApp.exe
+C:\Users\Aleksandar\source\repos\MemorijaApp\MemorijaApp\obj\Debug\MemorijaApp.pdb
+C:\Users\Aleksandar\source\repos\MemorijaApp\MemorijaApp\obj\Debug\MemorijaApp.csprojAssemblyReference.cache
